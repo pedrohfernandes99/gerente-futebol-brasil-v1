@@ -1,7 +1,6 @@
 {
   "name": "Gerente de Futebol Brasil V1",
   "short_name": "GFB V1",
-  "description": "Jogo de gerenciamento de futebol brasileiro",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
