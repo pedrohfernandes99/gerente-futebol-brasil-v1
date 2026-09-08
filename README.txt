@@ -1,21 +1,20 @@
-GERENTE DE FUTEBOL BRASIL V1 — MEGA CLUB CREATOR
+GERENTE DE FUTEBOL BRASIL V1 — CREATOR PRO / ESTÁDIOS REAIS
 
-MEGA ATUALIZAÇÃO DO CRIADOR DE CLUBE
-- novo fluxo em 5 etapas: Clube, Escudo, Uniformes, Estádio e Revisão;
-- 20 formatos de escudos e editor em camadas;
-- tipografia, símbolos, estrelas, arte interna, borda, escala e rotação do escudo;
-- 4 uniformes independentes: casa, visitante, terceiro e goleiro;
-- 14 padrões de camisa;
-- edição separada de camisa, padrão, detalhe, calção, meião e número;
-- gola, mangas, frisos e largura do padrão;
-- prévia de uniforme em perspectiva 3D rotacionável por mouse/toque;
-- 8 arquiteturas-base de estádio;
-- capacidade, anéis, cobertura, gramado, iluminação, assentos e estrutura externa;
-- estádio em perspectiva 3D rotacionável em 360 graus por mouse/toque;
-- novas informações visuais salvas no clube;
-- compatível com PC, Android e PWA.
+COMO ABRIR
+1. Extraia o ZIP.
+2. Abra index.html no Chrome.
 
-ONLINE / PWA
-Hospede os arquivos em HTTPS (GitHub Pages). Ao atualizar a versão online, substitua todos os arquivos do repositório pelos deste pacote.
+ESTÁDIOS
+- Galeria visual com fotos reais de estádios brasileiros.
+- Maracanã, Allianz Parque, Mineirão, Morumbi, Arena MRV e Arena do Grêmio.
+- Card com foto, cidade e capacidade.
+- Prévia grande da arena selecionada.
+- O modo 3D personalizável continua disponível.
+- As fotografias são carregadas do Wikimedia Commons e exigem internet para aparecer; o restante do jogo continua local.
+- Créditos/licenças das fotos são mostrados na própria tela do estádio.
 
-NOME DE VERSÃO MANTIDO: Gerente de Futebol Brasil V1
+MOBILE / PWA
+Para instalar como aplicativo, hospede em HTTPS (por exemplo GitHub Pages) e abra no Chrome Android.
+
+VERSÃO
+Manter sempre o nome: Gerente de Futebol Brasil V1.
